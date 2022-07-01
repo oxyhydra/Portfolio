@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Discord Bot Developer", "Web Developer", "Discord Server Developer", "Discord Server Manager", " ", " "],
+        strings: ["Discord Bot Developer", "Web Designer", "Discord Server Developer", "Discord Community Manager", " ", " "],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Discord Bot Developer", "Web Developer", "Discord Server Developer", "Discord Server Manager", " ", ""],
+        strings: ["Discord Bot Developer", "Web Designer", "Discord Server Developer", "Discord Community Manager", " ", ""],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
